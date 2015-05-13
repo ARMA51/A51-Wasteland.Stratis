@@ -1,7 +1,7 @@
-YOUR NAME Wasteland Stratis.
+ARMA 51 Wasteland Stratis.
 
 ===================
-*This is a de-branded version of our mission file, you just need to edit files and add your own name and logo*
+This is a de-branded version of our mission file, you just need to edit files and add your own name and logo.
 
 We want to thank Soloknight from G4 for letting us use one of their old mission files for inspiration.
 
